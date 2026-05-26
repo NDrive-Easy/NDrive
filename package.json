@@ -1,0 +1,24 @@
+{
+  "name": "ndrive",
+  "version": "1.0.0",
+  "description": "NDrive is a modern cloud storage platform built for speed, security, and simplicity. Upload, manage, organize, and access files anytime from any device with a clean professional interface. Designed for smooth performance, responsive design, and reliable digital storage for everyone.",
+  "main": "index.html",
+  "scripts": {
+    "dev": "npx serve .",
+    "test": "echo \"No tests specified\" && exit 0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/NDrive-Easy/NDrive.git"
+  },
+  "keywords": ["ndrive", "cloud-storage", "vercel-analytics"],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/NDrive-Easy/NDrive/issues"
+  },
+  "homepage": "https://github.com/NDrive-Easy/NDrive#readme",
+  "dependencies": {
+    "@vercel/analytics": "^2.0.1"
+  }
+}
